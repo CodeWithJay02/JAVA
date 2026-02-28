@@ -2,10 +2,10 @@ class Larger
 {
 public static void main(String[] args)
 {
-int a=5, b=7; 
+int a=5, b=7;
 if(a>b)
-System.out.println("a is larger");
+System.out.println("a is largest");
 else
-System.out.println("b is larger");
+System.out.println("b is largest");
 }
 }
